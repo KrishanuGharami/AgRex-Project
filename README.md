@@ -34,14 +34,11 @@ A modern, responsive web platform designed for revolutionizing agriculture throu
 ```bash
 AG-Rex-Project/
 ├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
+├── tailwind.css
+├── three.js
 └── README.md
 
-## 🚀 Getting Started (For Developers)
+🚀 Getting Started (For Developers)
 To run this project locally:
 
 1. Clone the repository
