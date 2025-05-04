@@ -58,3 +58,6 @@ open index.html
 | -------------------------------------------- | ------------------------------------------ |
 | ![Desktop](https://github.com/user-attachments/assets/7d1b3f4b-94d5-431f-bb1c-306e59ad9eac) | ![Mobile](https://github.com/user-attachments/assets/6d75ad20-fb1a-4291-a1a4-73111ee26a48) |
 
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
