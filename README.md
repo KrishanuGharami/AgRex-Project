@@ -53,5 +53,9 @@ cd ag-rex-project
 open index.html
 ```
 
+| Desktop View                                 | Mobile View                                |
+| -------------------------------------------- | ------------------------------------------ |
+| ![Desktop](./assets/screenshots/desktop.png) | ![Mobile](./assets/screenshots/mobile.png) |
+
 
 
