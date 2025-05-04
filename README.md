@@ -1,6 +1,6 @@
 # AG-Rex Project 🌾🚜
 
-![AG-Rex Banner](https://ag-rex-project.vercel.app/banner.png) <!-- Replace with actual banner image link if available -->
+![AG-Rex Banner](https://img.pikbest.com/png-images/20241228/a-agriculture-logo-design-concept-_11313614.png!f305cw) <!-- Replace with actual banner image link if available -->
 
 A modern, responsive web platform designed for revolutionizing agriculture through smart technology and digital solutions.
 
