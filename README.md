@@ -1,5 +1,3 @@
-# AgRex-Project
-
 # AG-Rex Project 🌾🚜
 
 ![AG-Rex Banner](https://ag-rex-project.vercel.app/banner.png) <!-- Replace with actual banner image link if available -->
