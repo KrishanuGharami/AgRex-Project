@@ -44,11 +44,14 @@ To run this project locally:
 ```bash
 git clone https://github.com/your-username/ag-rex-project.git
 ```
-3. Navigate to the project directory
+2. Navigate to the project directory
+```bash
 cd ag-rex-project
-
-4. Open index.html in your browser
+```
+3. Open index.html in your browser
+```bash
 open index.html
+```
 
 
 
