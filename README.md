@@ -65,3 +65,10 @@ Feel free to fork this repo and submit a pull request.
 ## 👨‍💻 Author
 Krishanu Gharami
 Connect with me on [LinkedIn](https://www.linkedin.com/in/krishanugharami/)
+
+## ⭐ Show Your Support
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
+
+Would you like help creating the GitHub repository or uploading the project files too?
