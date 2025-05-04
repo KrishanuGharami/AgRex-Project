@@ -55,7 +55,8 @@ open index.html
 
 | Desktop View                                 | Mobile View                                |
 | -------------------------------------------- | ------------------------------------------ |
-| ![Desktop](./assets/screenshots/desktop.png) | ![Mobile](./assets/screenshots/mobile.png) |
+| ![Desktop](https://github.com/user-attachments/assets/7d1b3f4b-94d5-431f-bb1c-306e59ad9eac) | ![Mobile](./assets/screenshot![Screenshot 2025-05-04 165156]
+s/mobile.png) |
 
 
 
