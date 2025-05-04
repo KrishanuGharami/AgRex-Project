@@ -61,3 +61,7 @@ open index.html
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
+
+## 👨‍💻 Author
+Krishanu Gharami
+Connect with me on LinkedIn
