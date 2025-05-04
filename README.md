@@ -42,7 +42,7 @@ To run this project locally:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ag-rex-project.git
+git clone https://github.com/KrishanuGharami/ag-rex-project.git
 ```
 2. Navigate to the project directory
 ```bash
