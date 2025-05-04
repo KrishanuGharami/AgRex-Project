@@ -41,7 +41,7 @@ AG-Rex-Project/
 │   └── icons/
 └── README.md
 
-🚀 Getting Started (For Developers)
+## 🚀 Getting Started (For Developers)
 To run this project locally:
 
 1. Clone the repository
