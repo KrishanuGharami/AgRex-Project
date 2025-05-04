@@ -40,3 +40,20 @@ AG-Rex-Project/
 │   ├── images/
 │   └── icons/
 └── README.md
+
+🚀 Getting Started (For Developers)
+To run this project locally:
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/ag-rex-project.git
+
+2. Navigate to the project directory
+```bash
+cd ag-rex-project
+
+3. Open index.html in your browser
+```bash
+open index.html
+
+
