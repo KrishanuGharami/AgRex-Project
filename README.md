@@ -1,4 +1,4 @@
-# AG-Rex Project 🌾🚜
+# AgRex Project 🌾🚜
 
 ![AG-Rex Banner](https://img.pikbest.com/png-images/20241228/a-agriculture-logo-design-concept-_11313614.png!f305cw) <!-- Replace with actual banner image link if available -->
 
