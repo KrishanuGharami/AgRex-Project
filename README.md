@@ -64,4 +64,4 @@ Feel free to fork this repo and submit a pull request.
 
 ## 👨‍💻 Author
 Krishanu Gharami
-Connect with me on https://www.linkedin.com/in/krishanugharami/
+Connect with me on [LinkedIn](#https://www.linkedin.com/in/krishanugharami/)
