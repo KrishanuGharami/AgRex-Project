@@ -35,8 +35,9 @@ AG-Rex-Project/
 ├── tailwind.css
 ├── three.js
 └── README.md
+```
 
-🚀 Getting Started (For Developers)
+## 🚀 Getting Started (For Developers)
 To run this project locally:
 
 1. Clone the repository
