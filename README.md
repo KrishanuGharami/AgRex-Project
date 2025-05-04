@@ -53,6 +53,7 @@ cd ag-rex-project
 open index.html
 ```
 
+## 📸 Screenshots
 | Desktop View                                 | Mobile View                                |
 | -------------------------------------------- | ------------------------------------------ |
 | ![Desktop](https://github.com/user-attachments/assets/7d1b3f4b-94d5-431f-bb1c-306e59ad9eac) | ![Mobile](https://github.com/user-attachments/assets/6d75ad20-fb1a-4291-a1a4-73111ee26a48) |
