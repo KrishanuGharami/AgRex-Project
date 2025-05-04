@@ -41,12 +41,13 @@ AG-Rex-Project/
 To run this project locally:
 
 1. Clone the repository
+```bash
 git clone https://github.com/your-username/ag-rex-project.git
-
-2. Navigate to the project directory
+```
+3. Navigate to the project directory
 cd ag-rex-project
 
-3. Open index.html in your browser
+4. Open index.html in your browser
 open index.html
 
 
