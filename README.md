@@ -68,4 +68,4 @@ Krishanu Gharami
 Connect with me on [LinkedIn](https://www.linkedin.com/in/krishanugharami/)
 
 ## ⭐ Show Your Support
-If you like this project, consider giving it a ⭐ on GitHub!.
+If you like this project, consider giving it a ⭐ on GitHub!
